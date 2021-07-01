@@ -6,7 +6,7 @@
 [![Linkedn Badge](https://img.shields.io/badge/-Nick%20Hafkemeyer-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nhafkemeyer/)
 
 * **Currently:** Computer Science student, writing my bachelor thesis on developing a configurator for Web Forms
-* **Head in the books:** Brief Anwers To The Big Questions, The Robot series, Uncle Bob's Clean Architecture
+* **Head in the books:** Let My People Go Surfing
 * **What else:** Running, Reading, Climbing, Cycling, Nutrition
 * **Hit me up:** **[hello@nhafkemeyer.com](mailto:hello@nhafkemeyer.com)**
 * **Website:** **[nhafkemeyer.com](https://nhafkemeyer.com)**

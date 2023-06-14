@@ -1,7 +1,5 @@
 # Hi there, I'm Nick!
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/npie_?color=1DA1F2&label=follow%20%40npie_&logo=Twitter&style=flat-square)
 [![Google Mail](https://img.shields.io/badge/-hello@nhafkemeyer.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hello@nhafkemeyer.com)
 [![Linkedn Badge](https://img.shields.io/badge/-Nick%20Hafkemeyer-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nhafkemeyer/)
 
